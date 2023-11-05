@@ -1,0 +1,15 @@
+/*
+ * THIS IS A FOOTER STYLE 
+ */
+
+
+footer {
+            	 text-align: center;
+                 background-color: #00FF00;
+                 height: 60px;
+                 bottom: 0px;
+                 position: absolute;
+                 width : 100%;
+                 align-items: center;
+                 display: flex;"
+}

@@ -1,0 +1,102 @@
+.places {
+	justify-content: center;
+	align-items: center;
+	margin-left: 10px;
+	margin-right: 5px;
+}
+.places h1 {
+	font-size: 30px;
+}
+.listing {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-bottom: 8%;
+}
+.places h2 {
+	font-size: 30px;
+	text-align: center;
+	margin: auto;
+}
+.list-motel{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+/* prices by night */
+.price_by_night {
+	align-items: center;
+	min-width: 60px;
+	color: #ff5a5f;
+	border: 4px solid #ff5a5f;
+	border-radius: 50%;
+	padding: 5px;
+	justify-content: center;
+	height: 60px;
+	font-size: 30px;
+	
+
+}
+.places article {
+	width: 390px;
+	padding: 20px;
+	margin: 20px;
+	border: 1px solid #ff5a5f;
+	border-radius: 4px;
+}
+
+.price_by_night p {
+	margin-top: 15px;
+	text-align: center;
+}
+/* information styles */
+.information {
+	height: 80px;
+	border-bottom: 1px solid #dddddd;
+	display: flex;
+	justify-content: center;
+	border-top:1px solid #dddddd;
+	
+}
+
+.information p {
+/* padding fot the information */
+	padding-top: 35px;
+	text-align: center;
+}
+.max_guest, .number_rooms, .number_bathrooms {
+	/* the width of the nav bar */
+	width: 100px;
+} 
+/* number of bathrooms in the house*/
+.number_bathrooms {
+
+	background-position-x: center;
+	background: url('../images/icon_bath.png') no-repeat;
+	margin-top: 6px;
+}
+/* max guests styling */
+.max_guest {
+	background: url('../images/icon_group.png') no-repeat;
+	background-position-x: center ;
+	margin-top: 6px;
+}
+.number_rooms {
+	background: url('../images/icon_bed.png') no-repeat;
+	margin-top: 6px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-position-x:center ;
+}
+
+/* users */
+.places .user {
+  margin: 20px auto 20px auto;
+}
+/* footer check in place */
+footer {
+	position: relative;
+}

@@ -1,0 +1,23 @@
+/*
+This is a global style for task 4
+ */
+
+/*this is the body styling */
+body{
+    color: #484848;
+    margin: 0px;
+    padding: 0px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+ }
+/* This is the container */
+ .container{
+    max-width: 1000px;
+    margin: 30px auto;
+  
+ }
+
+/* This indicates the font styling and all */
+ strong {
+   font-weight: bold;
+ }

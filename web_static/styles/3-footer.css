@@ -1,0 +1,17 @@
+/*
+ * This is the footer styling
+ */
+
+footer {
+            border-top: 1px solid #CCCCCC;
+            text-align: center;
+            background-color: #ffffff;
+            height: 60px;
+            bottom: 0;
+            width: 100%;
+            justify-content: center;
+	    /* should be relative */
+            position: absolute;
+            align-items: center;
+            display: flex;
+}

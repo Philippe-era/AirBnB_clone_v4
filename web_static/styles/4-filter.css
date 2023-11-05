@@ -1,0 +1,28 @@
+/* Filters style for this task */
+.filters {
+    
+    height: 70px;
+   
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+ width: 100%;
+    border-radius: 4px;
+}
+/* Search button styling */
+.filters button{
+    
+    background-color: #ff5a5f;
+    border-radius: 4px;
+    border: none;
+    width: 20%;
+    font-size: 18px;
+    margin: 12px 30px;
+    color: #ffffff;
+    float: right;
+    height: 48px;
+
+}
+/* hovering effect */
+.filters button:hover{
+    background-color: rgba(255, 90, 95, .9);
+}

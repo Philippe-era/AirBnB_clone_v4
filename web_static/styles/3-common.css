@@ -1,0 +1,12 @@
+/*
+ * THIS IS THE GLOBAL STYLE FOR 3 INDEX HTML
+ */
+
+/* Global style */
+body{
+    margin: 0px;
+    color: #484848;
+    font-size: 14px;
+    padding: 0px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+ }

@@ -1,0 +1,25 @@
+/* Places number 2 */	
+.places h2 {
+	font-size: 30px ;
+	font-weight: bold;
+	text-align: center;
+}
+
+/* PLaces head number 1 */
+.places h1 {
+	font-size: 30px;
+	font-weight: bold;
+	width: 100%;
+	margin: .67em 0 .67em 0;
+}
+
+
+/*  Places in check for the places listed */
+.places article {
+	width: 390px;
+	border: 1px solid #ff5a5f;
+	border-radius: 4px;
+	padding: 20px;
+	margin: 20px;
+	display: inline-block;
+}
